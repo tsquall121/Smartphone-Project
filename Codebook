@@ -562,4 +562,4 @@ All Variable Names
 560 angle(Y,gravityMean)
 561 angle(Z,gravityMean)
 
-Please read run_analysis for detailed manipulation of the raw dataset.
+Please read run_analysis.R for detailed manipulation of the raw dataset.
